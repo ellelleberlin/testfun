@@ -40,7 +40,7 @@ section {
 
 .navbar-brand {
   font-family: "Ubuntu", sans-serif;
-  font-size: 2.5rem;
+  font-size: 2.0rem;
   font-weight: 900;
 }
 
@@ -71,6 +71,8 @@ section {
 #title .container-fluid {
   padding: 3% 15% 7%;
 }
+
+
 
 /* Title image */
 .title-image {
